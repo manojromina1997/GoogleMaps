@@ -22,7 +22,7 @@
             android:value="@integer/google_play_services_version"></meta-data>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value=" AIzaSyCaYOreyiIQqFIb33oQfxJbBQ2Wo_h8lc8"/>
+            android:value=""/>
     </application>
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
